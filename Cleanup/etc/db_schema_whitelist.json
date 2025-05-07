@@ -1,0 +1,14 @@
+{
+    "sales_order_item": {
+        "column": {
+            "config_hash": true,
+            "config_image": true
+        }
+    },
+    "quote_item": {
+        "column": {
+            "config_hash": true,
+            "config_image": true
+        }
+    }
+}
